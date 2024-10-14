@@ -1,9 +1,16 @@
 
-# Hi, I'm Katherine! 👋
+#CAPSTONE PROJECT
 
 
-## 🚀 About Me
-I'm a full stack developer...
+## 🚀 Problem Statement
+To harness India's IT talent for national projects, we propose two
+interconnected platforms: the National Importance Project Portal, which lists crucial
+projects with details for both financial and technical contributions, and the Skill-Based
+Volunteer Network, which matches IT professionals with these projects based on their 
+skills and interests. The portal will facilitate project tracking, collaboration, and feedback,
+while the network will enable resource sharing, training, and recognition for volunteers.
+These platforms aim to provide rapid support for projects like the Ima Market recovery in
+Manipur, leveraging IT skills to address national challenges efficiently.
 
 
 ## 🔗 Links
