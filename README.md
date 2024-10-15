@@ -1,8 +1,8 @@
 
-#####  🚀CAPSTONE PROJECT
+##  CAPSTONE PROJECT
 
 
-##  Problem Statement
+##  🚀Problem Statement
 To harness India's IT talent for national projects, we propose two
 interconnected platforms: the National Importance Project Portal, which lists crucial
 projects with details for both financial and technical contributions, and the Skill-Based
@@ -14,15 +14,24 @@ Manipur, leveraging IT skills to address national challenges efficiently.
 
 
 ## Solution
+We propose two interconnected platforms to harness India’s IT talent for national projects: the National Importance Project Portal and an E-commerce Website. The portal will act as a centralized hub, listing critical projects with detailed information on financial and technical contributions, while facilitating project tracking, collaboration, and feedback. The e-commerce website will support these initiatives by providing a marketplace for products and services related to the projects, enabling resource sharing and engagement from the community. Together, these platforms aim to address national challenges efficiently, with an initial focus on projects like the Ima Market recovery in Manipur, leveraging IT skills and resources for impactful solutions.
+
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![national services portal](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![e-commerce](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 
 
 ## API Reference
+
+# Firebase Authentication 
+https://firebase.google.com/docs/auth
+
+# PostMan API
+https://learning.postman.com/docs/integrations/intro-integrations/
+
 
 #### Get all items
 
@@ -213,6 +222,9 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 - [@octokatherine](https://www.github.com/octokatherine)
+- [@octokatherine](https://www.github.com/octokatherine)
+- [@octokatherine](https://www.github.com/octokatherine)
+- [@octokatherine](https://www.github.com/octokatherine)
 
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
@@ -236,14 +248,14 @@ Please adhere to this project's `code of conduct`.
 Javascript, HTML, CSS...
 
 
-## Other Common Github Profile Sections
+## ⚡️Thank you for contributions 
 👩‍💻 I'm currently working on...
 
 🧠 I'm currently learning...
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍♀️ I'm looking to collaborate on...AGRA project
 
-🤔 I'm looking for help with...
+🤔 I'm looking for help with...stabilizing the agra site.
 
 💬 Ask me about...
 
@@ -251,5 +263,5 @@ Javascript, HTML, CSS...
 
 😄 Pronouns...
 
-⚡️ Fun fact...
+ Fun fact...
 
