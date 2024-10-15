@@ -1,8 +1,8 @@
 
-##  CAPSTONE PROJECT
+#####  🚀CAPSTONE PROJECT
 
 
-## 🚀 Problem Statement
+##  Problem Statement
 To harness India's IT talent for national projects, we propose two
 interconnected platforms: the National Importance Project Portal, which lists crucial
 projects with details for both financial and technical contributions, and the Skill-Based
