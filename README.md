@@ -24,12 +24,12 @@ We propose two interconnected platforms to harness India’s IT talent for natio
 
 
 
-## API Reference
+## 🚀API Reference
 
-# Firebase Authentication 
+# ⚡️Firebase Authentication 
 https://firebase.google.com/docs/auth
 
-# PostMan API
+# ⚡️PostMan API
 https://learning.postman.com/docs/integrations/intro-integrations/
 
 
