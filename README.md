@@ -230,14 +230,21 @@ Please adhere to this project's `code of conduct`.
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
+## 🛠 Skills
+
+Frontend---> Html ,Css , Javascript...
+
+Backend---> MongoDB, Django 
+
+API's --> Postman
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## 🛠 Skills
-Frontend---> Html ,Css , Javascript...
-Backend---> MongoDB, Django 
-API's --> Postman
+
+
 
 
