@@ -26,9 +26,6 @@ We propose two interconnected platforms to harness India’s IT talent for natio
 
 ## 🚀API Reference
 
-# ⚡️Firebase Authentication 
-https://firebase.google.com/docs/auth
-
 # ⚡️PostMan API
 https://learning.postman.com/docs/integrations/intro-integrations/
 
@@ -60,10 +57,11 @@ Takes two numbers and returns the sum.
 
 ## Features
 
-- Light/dark mode toggle
+- Responsive web design
+- Light mode / Dark mode
 - Live previews
 - Fullscreen mode
-- Cross platform
+- Interconnected platforms
 
 
 ## Optimizations
@@ -162,13 +160,6 @@ To run tests, run the following command
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
 ## Support
 
 For support, email fake@fake.com or join our Slack channel.
@@ -192,11 +183,11 @@ Answer 2
 
 ## Used By
 
-This project is used by the following companies:
+This project can be used by the following sectors:
 
-- Company 1
-- Company 2
-
+--> IT Professionals
+--> Public
+--> Goverment
 
 ## Lessons Learned
 
@@ -245,23 +236,8 @@ Please adhere to this project's `code of conduct`.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Frontend---> Html ,Css , Javascript...
+Backend---> MongoDB, Django 
+API's --> Postman
 
-
-## ⚡️Thank you for contributions 
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...AGRA project
-
-🤔 I'm looking for help with...stabilizing the agra site.
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
- Fun fact...
 
