@@ -17,40 +17,6 @@ Manipur, leveraging IT skills to address national challenges efficiently.
 We propose two interconnected platforms to harness India’s IT talent for national projects: the National Importance Project Portal and an E-commerce Website. The portal will act as a centralized hub, listing critical projects with detailed information on financial and technical contributions, while facilitating project tracking, collaboration, and feedback. The e-commerce website will support these initiatives by providing a marketplace for products and services related to the projects, enabling resource sharing and engagement from the community. Together, these platforms aim to address national challenges efficiently, with an initial focus on projects like the Ima Market recovery in Manipur, leveraging IT skills and resources for impactful solutions.
 
 
-
-## 🔗 Links
-[![national services portal](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![e-commerce](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-
-
-## 🚀API Reference
-
-# ⚡️PostMan API
-https://learning.postman.com/docs/integrations/intro-integrations/
-
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-
 ## Features
 
 - Responsive web design
@@ -58,11 +24,6 @@ https://learning.postman.com/docs/integrations/intro-integrations/
 - Live previews
 - Fullscreen mode
 - Interconnected platforms
-
-
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
 
 ## Demo
@@ -158,7 +119,7 @@ To run tests, run the following command
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email fake@fake.com or message us in  our Instagram page @.
 
 
 ## Feedback
@@ -169,24 +130,24 @@ If you have any feedback, please reach out to us at fake@fake.com
 ## FAQ
 
 Q1: How do I create an account?
-ANS: To create an account, click the "Sign Up" button on the homepage and provide your details. Follow the instructions to complete the registration process.
+To create an account, click the "Sign Up" button on the homepage and provide your details. Follow the instructions to complete the registration process.
 
 Q2: What should I do if I forget my password?
-ANS: Click the "Forgot Password" link on the login page and follow the steps to reset your password. You’ll receive an email with instructions.
+Click the "Forgot Password" link on the login page and follow the steps to reset your password. You’ll receive an email with instructions.
 
 Q3: Are your services free to use?
-ANS: We offer both free and premium services. Check the "Pricing" page for details on features included in each plan.
+We offer both free and premium services. Check the "Pricing" page for details on features included in each plan.
 
 Q4: How can I contact customer support?
-ANS: You can reach our support team via email at [support@example.com] or call us at [support phone number]. Support hours are [time and days].
+You can reach our support team via email at [support@example.com] or call us at [support phone number]. Support hours are [time and days].
 
 Q5: Can I cancel my subscription?
-ANS: Yes, you can cancel your subscription anytime from the "Account Settings" page. For refunds, refer to our cancellation policy.
+Yes, you can cancel your subscription anytime from the "Account Settings" page. For refunds, refer to our cancellation policy.
 
 
 ## Used By
 
-# This project can be used by the following sectors:
+### This project can be used by the following sectors:
 
 
  --> IT Professionals
@@ -195,7 +156,7 @@ ANS: Yes, you can cancel your subscription anytime from the "Account Settings" p
 
 ## Lessons Learned
 
-# What did you learn while building this project? What challenges did you face and how did you overcome them?
+### What did you learn while building this project? What challenges did you face and how did you overcome them?
 
  1. Unclear Requirements: Ambiguities in project goals or expectations can lead to misaligned deliverables and rework.  
 
@@ -224,10 +185,10 @@ Please adhere to this project's `code of conduct`🙌.
 
 ## Authors
 
-- 😎[@aneeshk888](https://github.com/aneeshk888)
-- 😎[@Azmath-77](https://github.com/Azmath-77)
-- 😎[@rajavardhan28](https://github.com/rajavardhan28)
-- 😎[@GanaNH](https://github.com/GanaNH)
+- [@aneeshk888](https://github.com/aneeshk888)😎
+- [@Azmath-77](https://github.com/Azmath-77)😎
+- [@rajavardhan28](https://github.com/rajavardhan28)😎
+- [@GanaNH](https://github.com/GanaNH)😎
 
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
