@@ -1,5 +1,5 @@
 
-##  CAPSTONE PROJECT
+##  ⚡CAPSTONE PROJECT
 
 
 ##  🚀Problem Statement
@@ -13,11 +13,11 @@ These platforms aim to provide rapid support for projects like the Ima Market re
 Manipur, leveraging IT skills to address national challenges efficiently.
 
 
-## Solution
+##  🚀Solution
 We propose two interconnected platforms to harness India’s IT talent for national projects: the National Importance Project Portal and an E-commerce Website. The portal will act as a centralized hub, listing critical projects with detailed information on financial and technical contributions, while facilitating project tracking, collaboration, and feedback. The e-commerce website will support these initiatives by providing a marketplace for products and services related to the projects, enabling resource sharing and engagement from the community. Together, these platforms aim to address national challenges efficiently, with an initial focus on projects like the Ima Market recovery in Manipur, leveraging IT skills and resources for impactful solutions.
 
 
-## Features
+## 🚀Features
 
 - Responsive web design
 - Light mode / Dark mode
@@ -26,12 +26,12 @@ We propose two interconnected platforms to harness India’s IT talent for natio
 - Interconnected platforms
 
 
-## Demo
+## 🚀Demo
 
 Insert gif or link to demo
 
 
-## Installation
+## 🚀Installation
 
 Install my-project with npm
 
@@ -40,7 +40,7 @@ Install my-project with npm
   cd my-project
 ```
     
-## Run Locally
+## 🚀Run Locally
 
 Clone the project
 
@@ -67,7 +67,7 @@ Start the server
 ```
 
 
-## Deployment
+## 🚀Deployment
 
 To deploy this project run
 
@@ -76,7 +76,7 @@ To deploy this project run
 ```
 
 
-## Environment Variables
+## 🚀Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
 
@@ -85,14 +85,14 @@ To run this project, you will need to add the following environment variables to
 `ANOTHER_API_KEY`
 
 
-## Tech Stack
+## 🚀Tech Stack
 
 **Client:** React, Redux, TailwindCSS
 
 **Server:** Node, Express
 
 
-## Usage/Examples
+## 🚀Usage/Examples
 
 ```javascript
 import Component from 'my-project'
@@ -103,7 +103,7 @@ function App() {
 ```
 
 
-## Running Tests
+## 🚀Running Tests
 
 To run tests, run the following command
 
@@ -112,22 +112,22 @@ To run tests, run the following command
 ```
 
 
-## Screenshots
+## 🚀Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-## Support
+## 🚀Support
 
 For support, email fake@fake.com or message us in  our Instagram page @.
 
 
-## Feedback
+## 🚀Feedback
 
 If you have any feedback, please reach out to us at fake@fake.com
 
 
-## FAQ
+## 🚀FAQ
 
 Q1: How do I create an account?
 To create an account, click the "Sign Up" button on the homepage and provide your details. Follow the instructions to complete the registration process.
@@ -145,7 +145,7 @@ Q5: Can I cancel my subscription?
 Yes, you can cancel your subscription anytime from the "Account Settings" page. For refunds, refer to our cancellation policy.
 
 
-## Used By
+## 🚀Used By
 
 ### This project can be used by the following sectors:
 
@@ -154,7 +154,7 @@ Yes, you can cancel your subscription anytime from the "Account Settings" page. 
  --> Public
  --> Goverment
 
-## Lessons Learned
+## 🚀Lessons Learned
 
 ### What did you learn while building this project? What challenges did you face and how did you overcome them?
 
@@ -167,7 +167,7 @@ Yes, you can cancel your subscription anytime from the "Account Settings" page. 
  We overcame these issues by mastering time management, planning are goals,regular meetings in teams,debugging the issues & constant learning❤️‍🔥💪. 
 
 
-## Contributing
+## 🚀Contributing
 
 Contributions are always welcome❤️‍🔥!
 
@@ -176,24 +176,24 @@ See `contributing.md` for ways to get started💪.
 Please adhere to this project's `code of conduct`🙌.
 
 
-## Roadmap
+## 🚀Roadmap
 
 - Additional browser support compatability❤️‍🔥
 
 - Adding more features❤️‍🔥
 
 
-## Authors
+## 🚀Authors
 
-- [@aneeshk888](https://github.com/aneeshk888)😎
-- [@Azmath-77](https://github.com/Azmath-77)😎
-- [@rajavardhan28](https://github.com/rajavardhan28)😎
-- [@GanaNH](https://github.com/GanaNH)😎
+- [@aneeshk888](https://github.com/aneeshk888)👨‍🚀
+- [@Azmath-77](https://github.com/Azmath-77)👨‍🚀
+- [@rajavardhan28](https://github.com/rajavardhan28)👨‍🚀
+- [@GanaNH](https://github.com/GanaNH)👩‍🚀
 
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-## Color Reference
+## 🚀Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -212,7 +212,11 @@ Backend---> MongoDB, Django
 API's --> Postman
 
 
-## License
+## Donations
+You can contribute to this project as well via your donations which would be helpful for us bring full-stack scalable web-app with an interactive UI.  
+
+
+## 🚀License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
