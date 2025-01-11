@@ -173,7 +173,7 @@ Contributions are always welcome❤️‍🔥!
 
 See `contributing.md` for ways to get started💪.
 
-Please adhere to this project's [code of conduct](#code-of-conduct)🙌.
+Please adhere to this project's [code of conduct](https://github.com/Azmath-77/Ima-Market/blob/main/CONTRIBUTING.md)🙌.
 
 
 ## 🚀Roadmap
