@@ -168,41 +168,42 @@ If you have any feedback, please reach out to us at fake@fake.com
 
 ## FAQ
 
-## Q1: How do I create an account?
+Q1: How do I create an account?
 ANS: To create an account, click the "Sign Up" button on the homepage and provide your details. Follow the instructions to complete the registration process.
 
-## Q2: What should I do if I forget my password?
+Q2: What should I do if I forget my password?
 ANS: Click the "Forgot Password" link on the login page and follow the steps to reset your password. You’ll receive an email with instructions.
 
-## Q3: Are your services free to use?
+Q3: Are your services free to use?
 ANS: We offer both free and premium services. Check the "Pricing" page for details on features included in each plan.
 
-## Q4: How can I contact customer support?
+Q4: How can I contact customer support?
 ANS: You can reach our support team via email at [support@example.com] or call us at [support phone number]. Support hours are [time and days].
 
-## Q5: Can I cancel my subscription?
+Q5: Can I cancel my subscription?
 ANS: Yes, you can cancel your subscription anytime from the "Account Settings" page. For refunds, refer to our cancellation policy.
 
 
 ## Used By
 
-This project can be used by the following sectors:
+# This project can be used by the following sectors:
 
-## --> IT Professionals
-## --> Public
-## --> Goverment
+
+ --> IT Professionals
+ --> Public
+ --> Goverment
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+# What did you learn while building this project? What challenges did you face and how did you overcome them?
 
-## 1. **Unclear Requirements:** Ambiguities in project goals or expectations can lead to misaligned deliverables and rework.  
+ 1. Unclear Requirements: Ambiguities in project goals or expectations can lead to misaligned deliverables and rework.  
 
-## 2. **Integration Challenges:** Difficulty integrating new features with legacy systems or third-party tools.  
+ 2. Integration Challenges: Difficulty integrating new features with legacy systems or third-party tools.  
 
-## 3. **Time Constraints:** Underestimating timelines and dealing with tight deadlines often delays project completion. 
+ 3. Time Constraints: Underestimating timelines and dealing with tight deadlines often delays project completion. 
 
-## We overcame these issues by mastering time management, planning are goals,regular meetings in teams,debugging the issues & constant learning❤️‍🔥💪. 
+ We overcame these issues by mastering time management, planning are goals,regular meetings in teams,debugging the issues & constant learning❤️‍🔥💪. 
 
 
 ## Contributing
