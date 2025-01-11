@@ -208,9 +208,9 @@ Please adhere to this project's `code of conduct`.
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
-- [@octokatherine](https://www.github.com/octokatherine)
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@aneeshk888](https://github.com/aneeshk888)
+- [@Azmath-77](https://github.com/Azmath-77)
+- [@rajavardhan28](https://github.com/rajavardhan28)
 - [@octokatherine](https://www.github.com/octokatherine)
 
 
@@ -238,6 +238,7 @@ API's --> Postman
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+[Copyright](https://copyright.gov.in/)
 
 
 
