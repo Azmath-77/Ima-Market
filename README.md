@@ -203,7 +203,7 @@ Please adhere to this project's `code of conduct`🙌.
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-## 🛠 Skills
+## 🚀Skills
 
 Frontend---> Html ,Css , Javascript...
 
@@ -211,14 +211,13 @@ Backend---> MongoDB, Django
 
 API's --> Postman
 
-
-## Donations
-You can contribute to this project as well via your donations which would be helpful for us bring full-stack scalable web-app with an interactive UI.  
-
-
 ## 🚀License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## 🚀Donations
+You can contribute to this project as well via your donations which would be helpful for us bring full-stack scalable web-app with an interactive UI.  
 
 
 
