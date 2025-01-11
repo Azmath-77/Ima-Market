@@ -185,10 +185,10 @@ Please adhere to this project's `code of conduct`🙌.
 
 ## 🚀Authors
 
-- [@aneeshk888](https://github.com/aneeshk888)👨‍🚀
-- [@Azmath-77](https://github.com/Azmath-77)👨‍🚀
-- [@rajavardhan28](https://github.com/rajavardhan28)👨‍🚀
-- [@GanaNH](https://github.com/GanaNH)👩‍🚀
+⚡ [@aneeshk888](https://github.com/aneeshk888)😎
+⚡ [@Azmath-77](https://github.com/Azmath-77)😎
+⚡ [@rajavardhan28](https://github.com/rajavardhan28)😎
+⚡ [@GanaNH](https://github.com/GanaNH)😎
 
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
@@ -217,7 +217,7 @@ API's --> Postman
 
 
 ## 🚀Donations
-You can contribute to this project as well via your donations which would be helpful for us bring full-stack scalable web-app with an interactive UI.  
+You can contribute to this project as well via your donations which would be helpful for us bring full-stack scalable web-app with an interactive UI with lots features added to it.  
 
 
 
