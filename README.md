@@ -193,7 +193,7 @@ Please adhere to this project's [code of conduct](https://github.com/Azmath-77/I
 ⚡[@GanaNH](https://github.com/GanaNH)😎
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://presidencyuniversityin-my.sharepoint.com/:i:/g/personal/aneesh_20211ist0004_presidencyuniversity_in/EaCpQrRzjqJGgJga5Hk6TC8BdJXXvbmwMnaKF-XBUT3daw?e=PzT3fp)
 
 ## 🚀Color Reference
 
