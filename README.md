@@ -197,10 +197,10 @@ Please adhere to this project's [code of conduct](https://github.com/Azmath-77/I
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#f7eaea](https://via.placeholder.com/10/0a192f?text=+) #f7eaea |
-| Example Color | ![#7a5981](https://via.placeholder.com/10/f8f8f8?text=+) #7a5981 |
-| Example Color | ![#7ed8da](https://via.placeholder.com/10/00b48a?text=+) #7ed8da |
-| Example Color | ![#2d3e50](https://via.placeholder.com/10/00b48a?text=+) #2d3e50 |
+| Example Color | ![#f7eaea](https://via.placeholder.com/10/f7eaea?text=+) #f7eaea |
+| Example Color | ![#7a5981](https://via.placeholder.com/10/7a5981?text=+) #7a5981 |
+| Example Color | ![#7ed8da](https://via.placeholder.com/10/7ed8da?text=+) #7ed8da |
+| Example Color | ![#2d3e50](https://via.placeholder.com/10/2d3e50?text=+) #2d3e50 |
 
 
 ## 🚀Skills
