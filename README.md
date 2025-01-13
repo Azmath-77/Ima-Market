@@ -193,8 +193,6 @@ Please adhere to this project's [code of conduct](https://github.com/Azmath-77/I
 ⚡[@GanaNH](https://github.com/GanaNH)😎
 
 
-![Logo](https://presidencyuniversityin-my.sharepoint.com/:i:/g/personal/aneesh_20211ist0004_presidencyuniversity_in/EaCpQrRzjqJGgJga5Hk6TC8BdJXXvbmwMnaKF-XBUT3daw?e=PzT3fp)
-
 ## 🚀Color Reference
 
 | Color         | Hex      |
