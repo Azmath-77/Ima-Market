@@ -116,19 +116,42 @@ To run tests, run the following command
 
 ## 🚀Screenshots
 
-<img width="1428" alt="Screenshot 1946-10-23 at 9 39 25ΓÇ»PM" src="https://github.com/user-attachments/assets/1d87f5f4-b170-499d-91e7-300ae296d4ef" />
 <img width="1469" alt="Screenshot 1946-10-23 at 9 39 34ΓÇ»PM" src="https://github.com/user-attachments/assets/293d67c6-e98d-4d16-995d-e3729e582830" />
+
+
 <img width="1470" alt="Screenshot 1946-10-23 at 9 39 54ΓÇ»PM" src="https://github.com/user-attachments/assets/09ae2efd-d732-4ed9-b08c-aad991672065" />
+
+
 <img width="1470" alt="Screenshot 1946-10-23 at 9 40 22ΓÇ»PM" src="https://github.com/user-attachments/assets/eda541e6-cd8d-407e-927a-4bf510a17e35" />
+
+
 <img width="1470" alt="Screenshot 1946-10-23 at 9 40 36ΓÇ»PM" src="https://github.com/user-attachments/assets/b210a540-f30b-49bf-adc5-b6e268e02483" />
+
+
 <img width="1459" alt="Screenshot 1946-10-23 at 9 40 48ΓÇ»PM" src="https://github.com/user-attachments/assets/12f51aae-8420-45aa-a9cf-3f9577b578ef" />
+
+
 <img width="1431" alt="Screenshot 1946-10-23 at 9 41 05ΓÇ»PM" src="https://github.com/user-attachments/assets/20bad4c9-95e1-42bc-a5ca-bff91993c0b1" />
+
+
 <img width="1464" alt="Screenshot 1946-10-23 at 9 43 32ΓÇ»PM" src="https://github.com/user-attachments/assets/723c511c-a529-4d5d-8e6d-3cf307412ad5" />
+
+
 <img width="1417" alt="Screenshot 1946-10-23 at 9 44 13ΓÇ»PM" src="https://github.com/user-attachments/assets/38f52acd-7d53-40ef-9fda-f9fc368f7de4" />
+
+
 <img width="1373" alt="Screenshot 1946-10-23 at 9 44 34ΓÇ»PM" src="https://github.com/user-attachments/assets/3be20747-f2c3-4b89-93da-cc0a38c9f55c" />
+
+
 <img width="1457" alt="Screenshot 1946-10-23 at 9 44 59ΓÇ»PM" src="https://github.com/user-attachments/assets/6b3dad96-4eb7-4ce4-98ce-ba9683dfba07" />
+
+
 <img width="1408" alt="Screenshot 1946-10-23 at 9 45 16ΓÇ»PM" src="https://github.com/user-attachments/assets/7ed70986-34b8-4fce-8d59-3af4d76822c5" />
+
+
 <img width="1326" alt="Screenshot 1946-10-23 at 9 45 32ΓÇ»PM" src="https://github.com/user-attachments/assets/51374349-db04-4b9e-a1f9-74230645b48b" />
+
+
 <img width="1470" alt="Screenshot 1946-10-23 at 9 43 22ΓÇ»PM" src="https://github.com/user-attachments/assets/7f903fee-853e-402a-b070-96407095cb5c" />
 
 
@@ -206,6 +229,8 @@ Please adhere to this project's [code of conduct](https://github.com/Azmath-77/I
 ⚡[@rajavardhan28](https://github.com/rajavardhan28)😎
 ⚡[@GanaNH](https://github.com/GanaNH)😎
 
+
+<img width="624" alt="logo" src="https://github.com/user-attachments/assets/f142df05-a49b-43bf-ac81-58325b487098" />
 
 ## 🚀Color Reference
 
