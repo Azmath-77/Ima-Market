@@ -58,12 +58,14 @@ Install dependencies
 
 ```bash
   npm install
+  pip install -r requirements.txt
 ```
 
 Start the server
 
 ```bash
   npm run start
+  npm run dev
 ```
 
 
