@@ -198,12 +198,12 @@ To run tests, run the following command
 
 ## 🚀Support
 
-For support, email fake@fake.com.
+For support, email  at nationalprojectportal@gmail.com.
 
 
 ## 🚀Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at nationalprojectportal@gmail.com
 
 
 ## 🚀FAQ
@@ -218,7 +218,7 @@ Q3: Are your services free to use?
 We offer both free and premium services. Check the "Pricing" page for details on features included in each plan.
 
 Q4: How can I contact customer support?
-You can reach our support team via email at [support@example.com] or call us at [support phone number]. Support hours are [time and days].
+You can reach our support team via email at [nationalprojectportal@gmail.com] or call us at [17181]. Support hours are [24/7].
 
 Q5: Can I cancel my subscription?
 Yes, you can cancel your subscription anytime from the "Account Settings" page. For refunds, refer to our cancellation policy.
